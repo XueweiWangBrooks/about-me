@@ -953,11 +953,11 @@ body.offcanvas {
       display: block;
       position: relative;
       height: 300px; }
-      .project .desc .con .icon {
-        position: absolute;
+      .project .desc .con .icon 
+        /* position: absolute;
         bottom: 0px;
         left: 20px;
-        right: 20px; }
+        right: 20px; } */
         .project .desc .con .icon span {
           display: inline;
           padding-right: 5px; }

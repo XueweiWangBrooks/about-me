@@ -35,7 +35,8 @@ export default class Sidebar extends Component {
             <div className="colorlib-footer">
               <p><small>
                   Made with <i className="icon-heart" aria-hidden="true" /> and <i className="icon-coffee" aria-hidden="true"></i><br></br>
-                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> and <a href="https://github.com/dbarochiya" target="_blank" rel="noopener noreferrer">Dhruv Barochiya</a> <br></br>for inspiration 
+                  Thanks <a href="https://colorlib.com" target="_blank" rel="noopener noreferrer">Colorlib</a> and <a href="https://github.com/dbarochiya" target="_blank" rel="noopener noreferrer">Dhruv Barochiya</a> <br></br>for inspiration.
+                  <br/>Webpage icon made by <a href="https://www.flaticon.com/authors/freepik" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon"> www.flaticon.com</a> 
               </small></p>
             </div>
           </aside>
